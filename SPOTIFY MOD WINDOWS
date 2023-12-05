@@ -1,0 +1,11 @@
+OPEN WINDOWS POWER SHELL
+
+COPY & PASTE FIRST CODE 
+iwr -useb https://raw.githubusercontent.com/spicetify/spicetify-cli/master/install.ps1 | iex
+
+COPY & PASTE SECOND CODE 
+iwr -useb https://raw.githubusercontent.com/spicetify/spicetify-marketplace/main/resources/install.ps1 | iex
+
+AND OPEN YOUR SPOTIFY
+
+https://spicetify.app/docs/getting-started/
